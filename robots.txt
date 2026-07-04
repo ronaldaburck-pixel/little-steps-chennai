@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://littlestepspreschool.in/sitemap.xml
